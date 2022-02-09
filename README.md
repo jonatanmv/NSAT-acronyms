@@ -1,6 +1,8 @@
 # GNSS related Acronyms
 |Acronym|Explanation|
 |-------|-----------|
+|ADR|Architectural Design Review|
+
 |CDMA|Code Division Multiple Access|
 |DOP|Dilution of Precision|
 |ESA|European Space Agency|
@@ -21,6 +23,11 @@
 |Acronym|Explanation|
 |-------|-----------|
 |CASC|China Aerospace Science and Technology Corporation|
+
+# EGNOS Acronyms
+|Acronym|Explanation|
+|-------|-----------|
+
 
 # GALILEO Acronyms
 |Acronym|Explanation|
