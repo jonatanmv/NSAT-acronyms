@@ -3,7 +3,16 @@
 |-------|-----------|
 |A||
 |ADR|Architectural Design Review|
+|AENA|Aeropuertos EspaÁoles y Navegación Aérea|
 |AMCS|AlternateMaster Control Station|
+|AIV|Assembly, Integration and Verification|
+|AIVP|Assembly, Integration and Verification Plan|
+|AOC|Advance Operational Capability|
+|AOR-E|Atlantic Ocean Region - East|
+|AOR-W|tlantic Ocean Region - West|
+|ARTES|Advanced Research in TElecommunication Systems|
+|ATC|Air Traffic Control|
+|ATM|Air Traffic Management or Asynchronous Transfer Mode|
 |C||
 |CASC|China Aerospace Science and Technology Corporation|
 |CC-M|Central Synchroniser|
