@@ -3,7 +3,6 @@
 |-------|-----------|
 |A||
 |ADR|Architectural Design Review|
-|AENA|Aeropuertos EspaÁoles y Navegación Aérea|
 |AMCS|AlternateMaster Control Station|
 |AIV|Assembly, Integration and Verification|
 |AIVP|Assembly, Integration and Verification Plan|
