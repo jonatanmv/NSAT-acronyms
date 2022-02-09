@@ -2,7 +2,6 @@
 |Acronym|Explanation|
 |-------|-----------|
 |ADR|Architectural Design Review|
-
 |CDMA|Code Division Multiple Access|
 |DOP|Dilution of Precision|
 |ESA|European Space Agency|
