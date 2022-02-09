@@ -13,10 +13,26 @@
 |ATC|Air Traffic Control|
 |ATM|Air Traffic Management / Asynchronous Transfer Mode|
 |C||
+|CAA|Civil Aviation Authority|
 |CASC|China Aerospace Science and Technology Corporation|
+|CAT-1|Category 1 Precision Approach Phase of Flight|
 |CC-M|Central Synchroniser|
+|CCB|Change Configuration Board / Configuration Control Board|
+|CCF|Central Control Facility|
+|CCN|Contract Change Notice|
 |CDMA|Code Division Multiple Access|
+|CDR|Critical Design Review|
+|CFI|Customer Furnished Item|
+|CN|Change Notice|
+|CPF|Central Processing Facility|
+|CPU|Central Processing Unit|
+|CR|Change Request|
+|CSAR|Configuration Status Accounting Report|
 |D||
+|DCN|Document Change Notice|
+|DDR|Detailed Design Review|
+|DJF|Design Justification File|
+|DVP|Development Verification Platform|
 |DoD|US Department of Defense|
 |DOP|Dilution of Precision|
 |E||
