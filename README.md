@@ -11,7 +11,7 @@
 |AOR-W|tlantic Ocean Region - West|
 |ARTES|Advanced Research in TElecommunication Systems|
 |ATC|Air Traffic Control|
-|ATM|Air Traffic Management or Asynchronous Transfer Mode|
+|ATM|Air Traffic Management / Asynchronous Transfer Mode|
 |C||
 |CASC|China Aerospace Science and Technology Corporation|
 |CC-M|Central Synchroniser|
