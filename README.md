@@ -2,65 +2,53 @@
 |Acronym|Explanation|
 |-------|-----------|
 |ADR|Architectural Design Review|
+|AMCS|AlternateMaster Control Station|
 |||
+|CASC|China Aerospace Science and Technology Corporation|
+|CC-M|Central Synchroniser|
 |CDMA|Code Division Multiple Access|
+|||
+|DoD|US Department of Defense|
 |DOP|Dilution of Precision|
+|||
 |ESA|European Space Agency|
+|||
 |FDMA|Frequency Division Multiple Access|
 |FOC|Fully Operational Capability|
-|GNSS|Global Navigation Satellite System|
-|IOV|In-Orbit Validation|
-|ITU|International Telecommunications Union|
-|MEO|Medium Earth Orbit|
-|PPP|Precise Point Positioning|
-|PRN|Pseudo-Random Noise|
-|SAR|Search and Rescue|
-|SPP|Standard Point Positioning|
-|SVN|Space Vehicle Number|
-|UTC|Coordinated Universal Time|
-
-# BEIDOU Acronyms
-|Acronym|Explanation|
-|-------|-----------|
-|CASC|China Aerospace Science and Technology Corporation|
-
-# EGNOS Acronyms
-|Acronym|Explanation|
-|-------|-----------|
-
-
-# GALILEO Acronyms
-|Acronym|Explanation|
-|-------|-----------|
+|||
+|GA|Ground Antennas|
 |GCC|Ground Control Centre|
 |GCS|Ground Control Segment|
 |GIOVE|Galileo In-Orbit Validation|
-|GMS|Ground Mission Segment|
-|GSS|Galileo Sensor Stations|
-|TT&C|Telemetry, Tracking and Control|
-|ULS|Uplink Stations|
-
-# GLONASS Acronyms
-|Acronym|Explanation|
-|-------|-----------|
-|CC-M|Central Synchroniser|
 |GLONASS|Global Navigation Satellite System|
-|LS|Laser Station|
-|MS|Monitoring Stations|
-|SCC|System Control Centre|
-|TT&C|Telemetry, Tracking and Control|
-
-# GPS Acronyms
-|Acronym|Explanation|
-|-------|-----------|
-|AMCS|AlternateMaster Control Station|
-|DoD|US Department of Defense|
-|GA|Ground Antennas|
+|GMS|Ground Mission Segment|
+|GNSS|Global Navigation Satellite System|
 |GPS|Global Positioning System|
+|GSS|Galileo Sensor Stations|
+|||
+|IOV|In-Orbit Validation|
+|ITU|International Telecommunications Union|
+|||
+|LS|Laser Station|
+|||
 |MCS|Master Control Station|
+|MEO|Medium Earth Orbit|
 |MS|Monitoring Stations|
+|||
 |NGA|National Geospatial-Intelligence Agency|
+|||
+|PPP|Precise Point Positioning|
+|PRN|Pseudo-Random Noise|
+|||
 |S/A|Selective Availability|
+|SAR|Search and Rescue|
+|SCC|System Control Centre|
+|SPP|Standard Point Positioning|
+|SVN|Space Vehicle Number|
+|||
+|TT&C|Telemetry, Tracking and Control|
+|||
+|ULS|Uplink Stations|
 |USAF|United States Air Force|
-
-
+|UTC|Coordinated Universal Time|
+||
