@@ -12,7 +12,7 @@
 |ARTES|Advanced Research in TElecommunication Systems|
 |ATC|Air Traffic Control|
 |ATM|Air Traffic Management / Asynchronous Transfer Mode|
-|C||
+||C|
 |CAA|Civil Aviation Authority|
 |CASC|China Aerospace Science and Technology Corporation|
 |CAT-1|Category 1 Precision Approach Phase of Flight|
@@ -28,7 +28,7 @@
 |CPU|Central Processing Unit|
 |CR|Change Request|
 |CSAR|Configuration Status Accounting Report|
-|D||
+||D|
 |DCN|Document Change Notice|
 |DDR|Detailed Design Review|
 |DFS|Deutsche Flugsicherung GmbH (DE)|
@@ -38,7 +38,7 @@
 |DVP|Development Verification Platform|
 |DoD|US Department of Defense|
 |DOP|Dilution of Precision|
-|E||
+||E|
 |ECAC|European Civil Aviation Conference|
 |EETES|EGNOS End To End Simulator|
 |EGNOS|European Geostationary Navigation Overlay Service|
@@ -51,7 +51,7 @@
 |ESTB|EGNOS System Test Bed|
 |ESVS|EGNOS Service Volume Simulator|
 |EWAN|EGNOS Wide Area Network|
-|F||
+||F|
 |FAA|Federal Aviation Administration|
 |FDIR|Failure Detection , Isolation and Recovery|
 |FDMA|Frequency Division Multiple Access|
@@ -59,7 +59,7 @@
 |FMECA|Failure Mode Effects & Criticality Analysis|
 |FOC|Fully Operational Capability|
 |FQR|Factory Qualification Review|
-|G||
+||G|
 |GA|Ground Antennas|
 |GCC|Ground Control Centre|
 |GCS|Ground Control Segment|
@@ -73,7 +73,7 @@
 |GPS|Global Positioning System|
 |GSM|Global System for Mobile communications|
 |GSS|Galileo Sensor Stations|
-|I||
+||I|
 |ICAO|International Civil Aviation Organisation|
 |IKD|In Kind Delivery|
 |ILS|Instrument Landing System or Integrated Logistics Support|
@@ -81,35 +81,35 @@
 |IOV|In-Orbit Validation|
 |IRD|Interface Requirements Document|
 |ITU|International Telecommunications Union|
-|J||
+||J|
 |JTC|Joint Tripartite Committee|
-|L||
+||L|
 |LS|Laser Station|
-|M||
+||M|
 |MCS|Master Control Station|
 |MEO|Medium Earth Orbit|
 |MOPS|Minimum Operational Performance Standard|
 |MRD|Mission Requirements Document|
 |MS|Monitoring Stations|
 |MTB|Mediterranean Test Bed|
-|N||
+||N|
 |NATS|National Air Traffic Services (UK)|
 |NLES|Navigation Land Earth Station|
 |NGA|National Geospatial-Intelligence Agency|
-|O||
+||O|
 |ORR|Operational Readiness Review|
-|P||
+||P|
 |PACF|Performance Assessment and Check-out Platform|
 |PDR|Preliminary Design Review|
 |PIDS|Prime Item Development Specification|
 |PPP|Precise Point Positioning|
 |PRN|Pseudo-Random Noise|
-|R||
+||R|
 |RAIM|Receiver Autonomous Integrity Monitoring|
 |RAMS|Reliability Availability, Maintainability and Safety|
 |RIMS|Ranging and Integrity Monitoring Station|
 |RTCA|Radio Technical Commission for Aeronauticsa|
-|S||
+||S|
 |S/A|Selective Availability|
 |SAR|Search and Rescue|
 |SARP|Standards And Recommended Practices|
@@ -122,16 +122,16 @@
 |SRD|System Requirements Document or Software Requirement Document|
 |STNA|Service Technique Navigation Aerienne (FR)|
 |SVN|Space Vehicle Number|
-|T||
+||T|
 |TRB|Test Review Board|
 |TT&C|Telemetry, Tracking and Control|
-|U||
+||U|
 |UDRE|User Differential Range Error|
 |ULS|Uplink Stations|
 |USAF|United States Air Force|
 |UTC|Coordinated Universal Time|
-|V||
+||V|
 |VSAT|Very Small Aperture Terminal|
-|W||
+||W|
 |WAAS|Wide Area Augmentation System|
 
