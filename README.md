@@ -1,7 +1,7 @@
 # GNSS related Acronyms
 |Acronym|Explanation|
 |-------|-----------|
-|A||
+||A|
 |ADR|Architectural Design Review|
 |AMCS|AlternateMaster Control Station|
 |AIV|Assembly, Integration and Verification|
