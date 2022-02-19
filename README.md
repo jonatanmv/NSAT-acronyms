@@ -13,6 +13,7 @@
 |ARTES|Advanced Research in TElecommunication Systems|
 |ATC|Air Traffic Control|
 |ATM|Air Traffic Management / Asynchronous Transfer Mode|
+|AWGN|Additive White Gaussian Noise|
 ||C|
 |CAA|Civil Aviation Authority|
 |CASC|China Aerospace Science and Technology Corporation|
@@ -28,6 +29,7 @@
 |CPF|Central Processing Facility|
 |CPU|Central Processing Unit|
 |CR|Change Request|
+|CRC|Cyclic Redundancy Check|
 |CSAR|Configuration Status Accounting Report|
 ||D|
 |DCN|Document Change Notice|
@@ -60,6 +62,7 @@
 |FDIR|Failure Detection , Isolation and Recovery|
 |FDMA|Frequency Division Multiple Access|
 |FEE|Front End Equipment|
+|FIR|Flight Information Region|
 |FMECA|Failure Mode Effects & Criticality Analysis|
 |FOC|Fully Operational Capability|
 |FQR|Factory Qualification Review|
@@ -68,7 +71,7 @@
 |GCC|Ground Control Centre|
 |GCS|Ground Control Segment|
 |GDOP|Geometric Dilution of Precision|
-|GEO|Geostationary Earth Orbit satellite|
+|GEO|Geostationary Earth Orbit Satellite|
 |GIOVE|Galileo In-Orbit Validation|
 |GIVE|Grid Ionospheric Vertical Error|
 |GLONASS|Global Navigation Satellite System|
@@ -80,50 +83,75 @@
 |GSS|Galileo Sensor Stations|
 ||H|
 |HDOP|Horizontal Dilution of Precision|
+|HE|Horizontal Error|
+|HPE|Horizontal Positioning Error|
+|HMI|Hazardous Misleading Information|
+|HPL|Horizontal Protection Level|
+|HWIR|Horizontal Worst Integrity Ratio|
 ||I|
 |ICAO|International Civil Aviation Organisation|
+|IGP|Ionospheric Grid Point|
+|IGS|International GNSS Service|
 |IKD|In Kind Delivery|
 |ILS|Instrument Landing System or Integrated Logistics Support|
+|IMO|International Maritime Organization|
+|IONEX|Ionosphere map Exchange format|
+|IOD|Issue of Data|
 |IODE|Issue Of Data Ephemeris|
+|IODF|Issue of Data Fast Correction|
+|IODI|Issue of Data Ionospheric|
+|IODP|Issue of Data PRN mask|
+|IODS|Issue of Data Service|
 |IOR|Indian Ocean Region|
 |IOV|In-Orbit Validation|
+|IPP|Ionospheric Pierce Point|
 |IRD|Interface Requirements Document|
 |ITU|International Telecommunications Union|
 ||J|
 |JTC|Joint Tripartite Committee|
 ||L|
 |LS|Laser Station|
+|LTC|Long Term Corrections|
 ||M|
 |MCS|Master Control Station|
 |MEO|Medium Earth Orbit|
 |MOPS|Minimum Operational Performance Standard|
 |MRD|Mission Requirements Document|
 |MS|Monitoring Stations|
+|MT|Message Type|
 |MTB|Mediterranean Test Bed|
 ||N|
 |NATS|National Air Traffic Services (UK)|
-|NLES|Navigation Land Earth Station|
 |NGA|National Geospatial-Intelligence Agency|
+|NLES|Navigation Land Earth Station|
+|NPA|Non Precision Approach|
 ||O|
 |ORR|Operational Readiness Review|
 ||P|
+|PA|Precision Approach|
 |PACF|Performance Assessment and Check-out Platform|
 |PDOP|Position Dilution of Precision|
 |PDR|Preliminary Design Review|
+|PEGASUS|Prototype EGNOS and GBAS Analysis System Using SAPPHIRE|
 |PIDS|Prime Item Development Specification|
+|PL|Protection Level|
 |PPP|Precise Point Positioning|
 |PRC|Pseudo Range Correction|
 |PRN|Pseudo Random Noise|
 ||R|
 |RAIM|Receiver Autonomous Integrity Monitoring|
 |RAMS|Reliability Availability, Maintainability and Safety|
+|RD|Reference Document|
 |RINEX|Receiver Independent EXchange format|
+|RINEX-B|Receiver Independent EXchange format Binary|
 |RIMS|Ranging and Integrity Monitoring Station|
 |RRC|Range Rate Correction|
+|RSS|Root Sum Square|
 |RTCA|Radio Technical Commission for Aeronauticsa|
 |RTMC|Radio Technical Commission for Maritime|
 ||S|
 |S/A|Selective Availability|
+|SAPPHIRE|Satellite and Aircraft Data Base for System Integrity Research|
 |SAR|Search and Rescue|
 |SARP|Standards And Recommended Practices|
 |SBAS|Satellite Based Augmentation System|
@@ -131,6 +159,7 @@
 |SCC|System Control Centre|
 |SIS|Signal In Space|
 |SISNET|Signal-In-Space through the Internet|
+|SNR|Signal to Noise Ratio|
 |SPP|Standard Point Positioning|
 |SRD|System Requirements Document or Software Requirement Document|
 |STNA|Service Technique Navigation Aerienne (FR)|
@@ -148,8 +177,13 @@
 |USAF|United States Air Force|
 |UTC|Coordinated Universal Time|
 ||V|
+|VE|Vertical Error|
 |VDOP|Vertical Dilution of Precision|
+|VPE|Vertical Positioning Error|
+|VPL|Vertical Protection Level|
 |VSAT|Very Small Aperture Terminal|
+|VWIR|Vertical Worst Integrity Ratio|
 ||W|
 |WAAS|Wide Area Augmentation System|
+|WIR|Worst Integrity Ratio|
 |WRS|WAAS Reference Stations|
