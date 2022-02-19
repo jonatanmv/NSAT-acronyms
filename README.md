@@ -2,6 +2,7 @@
 |Acronym|Explanation|
 |-------|-----------|
 ||A|
+|AD|Applicable Document|
 |ADR|Architectural Design Review|
 |AMCS|AlternateMaster Control Station|
 |AIV|Assembly, Integration and Verification|
@@ -34,10 +35,13 @@
 |DFS|Deutsche Flugsicherung GmbH (DE)|
 |DGAC|Dirección General de Aviación Civil (ES)|
 |DGAC|Direction Generale Aviation Civile (FR)|
+|DGNSS|Differential GNSS|
+|DGPS|Differential GPS|
 |DJF|Design Justification File|
 |DVP|Development Verification Platform|
 |DoD|US Department of Defense|
 |DOP|Dilution of Precision|
+|DoY|Day of Year|
 ||E|
 |ECAC|European Civil Aviation Conference|
 |EETES|EGNOS End To End Simulator|
@@ -63,6 +67,7 @@
 |GA|Ground Antennas|
 |GCC|Ground Control Centre|
 |GCS|Ground Control Segment|
+|GDOP|Geometric Dilution of Precision|
 |GEO|Geostationary Earth Orbit satellite|
 |GIOVE|Galileo In-Orbit Validation|
 |GIVE|Grid Ionospheric Vertical Error|
@@ -73,10 +78,13 @@
 |GPS|Global Positioning System|
 |GSM|Global System for Mobile communications|
 |GSS|Galileo Sensor Stations|
+||H|
+|HDOP|Horizontal Dilution of Precision|
 ||I|
 |ICAO|International Civil Aviation Organisation|
 |IKD|In Kind Delivery|
 |ILS|Instrument Landing System or Integrated Logistics Support|
+|IODE|Issue Of Data Ephemeris|
 |IOR|Indian Ocean Region|
 |IOV|In-Orbit Validation|
 |IRD|Interface Requirements Document|
@@ -100,15 +108,20 @@
 |ORR|Operational Readiness Review|
 ||P|
 |PACF|Performance Assessment and Check-out Platform|
+|PDOP|Position Dilution of Precision|
 |PDR|Preliminary Design Review|
 |PIDS|Prime Item Development Specification|
 |PPP|Precise Point Positioning|
-|PRN|Pseudo-Random Noise|
+|PRC|Pseudo Range Correction|
+|PRN|Pseudo Random Noise|
 ||R|
 |RAIM|Receiver Autonomous Integrity Monitoring|
 |RAMS|Reliability Availability, Maintainability and Safety|
+|RINEX|Receiver Independent EXchange format|
 |RIMS|Ranging and Integrity Monitoring Station|
+|RRC|Range Rate Correction|
 |RTCA|Radio Technical Commission for Aeronauticsa|
+|RTMC|Radio Technical Commission for Maritime|
 ||S|
 |S/A|Selective Availability|
 |SAR|Search and Rescue|
@@ -123,15 +136,19 @@
 |STNA|Service Technique Navigation Aerienne (FR)|
 |SVN|Space Vehicle Number|
 ||T|
+|TDOP|Time Dilution of Precision|
 |TRB|Test Review Board|
 |TT&C|Telemetry, Tracking and Control|
 |TTFF|Time To First Fix|
+|TOW|Time of Week|
 ||U|
 |UDRE|User Differential Range Error|
 |ULS|Uplink Stations|
+|URA|User Range Accuracy|
 |USAF|United States Air Force|
 |UTC|Coordinated Universal Time|
 ||V|
+|VDOP|Vertical Dilution of Precision|
 |VSAT|Very Small Aperture Terminal|
 ||W|
 |WAAS|Wide Area Augmentation System|
