@@ -125,6 +125,7 @@
 ||T|
 |TRB|Test Review Board|
 |TT&C|Telemetry, Tracking and Control|
+|TTFF|Time To First Fix|
 ||U|
 |UDRE|User Differential Range Error|
 |ULS|Uplink Stations|
@@ -134,4 +135,4 @@
 |VSAT|Very Small Aperture Terminal|
 ||W|
 |WAAS|Wide Area Augmentation System|
-
+|WRS|WAAS Reference Stations|
