@@ -9,7 +9,7 @@
 |AIVP|Assembly, Integration and Verification Plan|
 |AOC|Advance Operational Capability|
 |AOR-E|Atlantic Ocean Region - East|
-|AOR-W|tlantic Ocean Region - West|
+|AOR-W|Atlantic Ocean Region - West|
 |ARTES|Advanced Research in TElecommunication Systems|
 |ATC|Air Traffic Control|
 |ATM|Air Traffic Management / Asynchronous Transfer Mode|
