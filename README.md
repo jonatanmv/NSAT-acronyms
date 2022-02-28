@@ -4,17 +4,27 @@
 ||A|
 |AD|Applicable Document|
 |ADR|Architectural Design Review|
-|AMCS|AlternateMaster Control Station|
+|AGL|Above Ground Level|
 |AIV|Assembly, Integration and Verification|
 |AIVP|Assembly, Integration and Verification Plan|
+|AMCS|AlternateMaster Control Station|
+|ANSI|American National Standards Institute|
+|ANSP|Air Navigation Services Provider|
 |AOC|Advance Operational Capability|
 |AOR-E|Atlantic Ocean Region - East|
 |AOR-W|Atlantic Ocean Region - West|
 |ARNS|Aeronautical Radio Navigation Service|
 |ARTES|Advanced Research in TElecommunication Systems|
+|ARTCC|Air Route Traffic Control Center|
+|ASIC|Application Specific Integrated Circuit|
 |ATC|Air Traffic Control|
-|ATM|Air Traffic Management / Asynchronous Transfer Mode|
+|ATM|Air Traffic Management|
+|ATM|Asynchronous Transfer Mode|
+|ATS|Air Traffic Service|
+|ATSU|Air Traffic Status Unit|
 |AWGN|Additive White Gaussian Noise|
+||B|
+|BIT|Built-in Test|
 ||C|
 |CAA|Civil Aviation Authority|
 |CASC|China Aerospace Science and Technology Corporation|
@@ -46,6 +56,10 @@
 |DOP|Dilution of Precision|
 |DoY|Day of Year|
 ||E|
+|EASA|European Aviation Safety Authority|
+|EATM|European Air Traffic Management|
+|EATMN|European Air Traffic Management Network|
+|EATMP|European Air Traffic Management Program|
 |ECAC|European Civil Aviation Conference|
 |EETES|EGNOS End To End Simulator|
 |EGNOS|European Geostationary Navigation Overlay Service|
@@ -57,15 +71,20 @@
 |ESSF|EGNOS System Simulation Facility|
 |ESTB|EGNOS System Test Bed|
 |ESVS|EGNOS Service Volume Simulator|
+|EUROCAE|European Organisation for Civil Aviation Equipment Manufacturers|
 |EWAN|EGNOS Wide Area Network|
 ||F|
 |FAA|Federal Aviation Administration|
 |FANS|Future Air Navigation Systems|
+|FAS|Final Approach Segment|
+|FAT|Factory Acceptance Tests|
 |FDIR|Failure Detection , Isolation and Recovery|
 |FDMA|Frequency Division Multiple Access|
 |FEE|Front End Equipment|
+|FHA|Functional Hazard Assessment|
 |FIR|Flight Information Region|
 |FMECA|Failure Mode Effects & Criticality Analysis|
+|FMS|Flight Management System|
 |FOC|Fully Operational Capability|
 |FQR|Factory Qualification Review|
 ||G|
@@ -78,6 +97,7 @@
 |GIOVE|Galileo In-Orbit Validation|
 |GIVE|Grid Ionospheric Vertical Error|
 |GLONASS|Global Navigation Satellite System|
+|GLS|GBAS Landing System|
 |GMS|Ground Mission Segment|
 |GNSS|Global Navigation Satellite System|
 |GPRS|General Packet Radio Services|
@@ -108,6 +128,7 @@
 |IOR|Indian Ocean Region|
 |IOV|In-Orbit Validation|
 |IPP|Ionospheric Pierce Point|
+|ISO|International Organization for Standardization|
 |IRD|Interface Requirements Document|
 |ITU|International Telecommunications Union|
 ||J|
@@ -118,15 +139,19 @@
 ||M|
 |MCS|Master Control Station|
 |MEO|Medium Earth Orbit|
-|MOPS|Minimum Operational Performance Standard|
+|MOPS|Minimum Operational Performance Specification|
 |MRD|Mission Requirements Document|
 |MS|Monitoring Stations|
 |MT|Message Type|
 |MTB|Mediterranean Test Bed|
+|MTBCF|Mean Time Between Critical Failures|
+|MTBF|Mean Time Between Failures|
+|MTTR|Mean Time To Repair|
 ||N|
 |NATS|National Air Traffic Services (UK)|
 |NGA|National Geospatial-Intelligence Agency|
 |NLES|Navigation Land Earth Station|
+|NOTAM|Notice To Air Men|
 |NPA|Non Precision Approach|
 ||O|
 |ORR|Operational Readiness Review|
@@ -189,5 +214,6 @@
 |VWIR|Vertical Worst Integrity Ratio|
 ||W|
 |WAAS|Wide Area Augmentation System|
+|WGA|World Geodesic System|
 |WIR|Worst Integrity Ratio|
 |WRS|WAAS Reference Stations|
