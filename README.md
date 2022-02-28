@@ -10,6 +10,7 @@
 |AOC|Advance Operational Capability|
 |AOR-E|Atlantic Ocean Region - East|
 |AOR-W|Atlantic Ocean Region - West|
+|ARNS|Aeronautical Radio Navigation Service|
 |ARTES|Advanced Research in TElecommunication Systems|
 |ATC|Air Traffic Control|
 |ATM|Air Traffic Management / Asynchronous Transfer Mode|
@@ -145,7 +146,7 @@
 |RINEX|Receiver Independent EXchange format|
 |RINEX-B|Receiver Independent EXchange format Binary|
 |RIMS|Ranging and Integrity Monitoring Station|
-|RNSS|Radionavigation Satellite Service|
+|RNSS|Radio Navigation Satellite Service|
 |RRC|Range Rate Correction|
 |RSS|Root Sum Square|
 |RTCA|Radio Technical Commission for Aeronauticsa|
