@@ -70,6 +70,7 @@
 |FQR|Factory Qualification Review|
 ||G|
 |GA|Ground Antennas|
+|GBAS|Ground Based Augmentation System|
 |GCC|Ground Control Centre|
 |GCS|Ground Control Segment|
 |GDOP|Geometric Dilution of Precision|
