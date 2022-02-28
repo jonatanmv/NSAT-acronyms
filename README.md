@@ -25,6 +25,7 @@
 |AWGN|Additive White Gaussian Noise|
 ||B|
 |BIT|Built-in Test|
+|BPSK|Bniary Phase Shift Keying|
 ||C|
 |CAA|Civil Aviation Authority|
 |CASC|China Aerospace Science and Technology Corporation|
@@ -164,6 +165,7 @@
 |PIDS|Prime Item Development Specification|
 |PL|Protection Level|
 |PPP|Precise Point Positioning|
+|PPS|Precise Positioning System|
 |PRC|Pseudo Range Correction|
 |PRN|Pseudo Random Noise|
 ||R|
@@ -190,6 +192,7 @@
 |SISNET|Signal-In-Space through the Internet|
 |SNR|Signal to Noise Ratio|
 |SPP|Standard Point Positioning|
+|SPS|Standard Positioning System|
 |SRD|System Requirements Document or Software Requirement Document|
 |STNA|Service Technique Navigation Aerienne (FR)|
 |SVN|Space Vehicle Number|
