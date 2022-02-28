@@ -60,6 +60,7 @@
 |EWAN|EGNOS Wide Area Network|
 ||F|
 |FAA|Federal Aviation Administration|
+|FANS|Future Air Navigation Systems|
 |FDIR|Failure Detection , Isolation and Recovery|
 |FDMA|Frequency Division Multiple Access|
 |FEE|Front End Equipment|
