@@ -14,7 +14,7 @@
 |AOR-E|Atlantic Ocean Region - East|
 |AOR-W|Atlantic Ocean Region - West|
 |ARNS|Aeronautical Radio Navigation Service|
-|ARTES|Advanced Research in TElecommunication Systems|
+|ARTES|Advanced Research in Telecommunication Systems|
 |ARTCC|Air Route Traffic Control Center|
 |ASIC|Application Specific Integrated Circuit|
 |ATC|Air Traffic Control|
