@@ -145,6 +145,7 @@
 |RINEX|Receiver Independent EXchange format|
 |RINEX-B|Receiver Independent EXchange format Binary|
 |RIMS|Ranging and Integrity Monitoring Station|
+|RNSS|Radionavigation Satellite Service|
 |RRC|Range Rate Correction|
 |RSS|Root Sum Square|
 |RTCA|Radio Technical Commission for Aeronauticsa|
