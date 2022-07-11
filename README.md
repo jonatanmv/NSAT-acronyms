@@ -3,11 +3,16 @@
 |-------|-----------|
 ||A|
 |AD|Applicable Document|
+|AFS|Aeronautical Fixed Service|
+|AFTN|Aeronautical Fixed Telecommunication Network|
 |ADR|Architectural Design Review|
 |AGL|Above Ground Level|
 |AIV|Assembly, Integration and Verification|
 |AIVP|Assembly, Integration and Verification Plan|
+|AM|Amplitude Modulation|
 |AMCS|AlternateMaster Control Station|
+|AMHS|Aeronautical Message Handling System|
+|AMS|Aeronautical Mobile Service|
 |ANSI|American National Standards Institute|
 |ANSP|Air Navigation Services Provider|
 |AOC|Advance Operational Capability|
@@ -16,6 +21,7 @@
 |ARNS|Aeronautical Radio Navigation Service|
 |ARTES|Advanced Research in Telecommunication Systems|
 |ARTCC|Air Route Traffic Control Center|
+|ASCII|American Standard Code for Information Interchange|
 |ASIC|Application Specific Integrated Circuit|
 |ATC|Air Traffic Control|
 |ATM|Air Traffic Management|
@@ -190,6 +196,7 @@
 |SCC|System Control Centre|
 |SIS|Signal In Space|
 |SISNET|Signal-In-Space through the Internet|
+|SITA|Sociedad Internacional de Telecomunicaciones Aeronáuticas|
 |SNR|Signal to Noise Ratio|
 |SPP|Standard Point Positioning|
 |SPS|Standard Positioning System|
@@ -203,20 +210,24 @@
 |TTFF|Time To First Fix|
 |TOW|Time of Week|
 ||U|
+|UHF|Ultra High Frecuency|
 |UDRE|User Differential Range Error|
 |ULS|Uplink Stations|
 |URA|User Range Accuracy|
 |USAF|United States Air Force|
 |UTC|Coordinated Universal Time|
 ||V|
-|VE|Vertical Error|
 |VDOP|Vertical Dilution of Precision|
+|VE|Vertical Error|
+|VHF|Very High Frecuency|
+|VLF|Very Low Frecuency|
 |VPE|Vertical Positioning Error|
 |VPL|Vertical Protection Level|
 |VSAT|Very Small Aperture Terminal|
 |VWIR|Vertical Worst Integrity Ratio|
 ||W|
 |WAAS|Wide Area Augmentation System|
+|WAN|Wide Area Network|
 |WGA|World Geodesic System|
 |WIR|Worst Integrity Ratio|
 |WRS|WAAS Reference Stations|
