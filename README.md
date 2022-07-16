@@ -130,6 +130,7 @@
 |IKD|In Kind Delivery|
 |ILS|Instrument Landing System or Integrated Logistics Support|
 |IMO|International Maritime Organization|
+|INS|Inertial Navigation System|
 |IONEX|Ionosphere map Exchange format|
 |IOD|Issue of Data|
 |IODE|Issue Of Data Ephemeris|
