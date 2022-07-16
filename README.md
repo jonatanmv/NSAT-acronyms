@@ -63,6 +63,7 @@
 |DGNSS|Differential GNSS|
 |DGPS|Differential GPS|
 |DJF|Design Justification File|
+|DME|Distance Measuring Equipment|
 |DVP|Development Verification Platform|
 |DoD|US Department of Defense|
 |DOP|Dilution of Precision|
@@ -162,6 +163,7 @@
 |MTTR|Mean Time To Repair|
 ||N|
 |NATS|National Air Traffic Services (UK)|
+|NDB|Non Directional Beacon|
 |NGA|National Geospatial-Intelligence Agency|
 |NLES|Navigation Land Earth Station|
 |NOTAM|Notice To Air Men|
@@ -210,6 +212,7 @@
 |STNA|Service Technique Navigation Aerienne (FR)|
 |SVN|Space Vehicle Number|
 ||T|
+|TACAN|Tactical Air Navigational System|
 |TDOP|Time Dilution of Precision|
 |TRB|Test Review Board|
 |TT&C|Telemetry, Tracking and Control|
@@ -227,6 +230,7 @@
 |VE|Vertical Error|
 |VHF|Very High Frecuency|
 |VLF|Very Low Frecuency|
+|VOR|Very High Frequency Omnidirectional Range|
 |VPE|Vertical Positioning Error|
 |VPL|Vertical Protection Level|
 |VSAT|Very Small Aperture Terminal|
