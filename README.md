@@ -2,13 +2,17 @@
 |Acronym|Explanation|
 |-------|-----------|
 ||A|
+|ABAS|Aircraft-based augmentation system|
 |AD|Applicable Document|
+|ADF|Automatic direction-finding equipment|
+|ADS|Automatic dependent surveillance|
 |AFS|Aeronautical Fixed Service|
 |AFTN|Aeronautical Fixed Telecommunication Network|
 |ADR|Architectural Design Review|
 |AGL|Above Ground Level|
 |AIV|Assembly, Integration and Verification|
 |AIVP|Assembly, Integration and Verification Plan|
+|ALS|Approach lighting system|
 |AM|Amplitude Modulation|
 |AMCS|AlternateMaster Control Station|
 |AMHS|Aeronautical Message Handling System|
@@ -18,6 +22,7 @@
 |AOC|Advance Operational Capability|
 |AOR-E|Atlantic Ocean Region - East|
 |AOR-W|Atlantic Ocean Region - West|
+|APAPI|Abbreviated precision approach path indicator|
 |ARNS|Aeronautical Radio Navigation Service|
 |ARTES|Advanced Research in Telecommunication Systems|
 |ARTCC|Air Route Traffic Control Center|
