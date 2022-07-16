@@ -45,6 +45,7 @@
 |CCB|Change Configuration Board / Configuration Control Board|
 |CCF|Central Control Facility|
 |CCN|Contract Change Notice|
+|CDI|Course Deviation Indicator (VOR)|
 |CDMA|Code Division Multiple Access|
 |CDR|Critical Design Review|
 |CFI|Customer Furnished Item|
@@ -123,6 +124,7 @@
 |HPE|Horizontal Positioning Error|
 |HMI|Hazardous Misleading Information|
 |HPL|Horizontal Protection Level|
+|HSI|Horizontal Situation Indicator (VOR)|
 |HWIR|Horizontal Worst Integrity Ratio|
 ||I|
 |ICAO|International Civil Aviation Organisation|
@@ -169,6 +171,7 @@
 |NOTAM|Notice To Air Men|
 |NPA|Non Precision Approach|
 ||O|
+|OBS|Omni-Bearing Selector (VOR)|
 |ORR|Operational Readiness Review|
 ||P|
 |PA|Precision Approach|
