@@ -2,10 +2,10 @@
 |Acronym|Explanation|
 |-------|-----------|
 ||A|
-|ABAS|Aircraft-based augmentation system|
+|ABAS|Aircraft-based Augmentation System|
 |AD|Applicable Document|
-|ADF|Automatic direction-finding equipment|
-|ADS|Automatic dependent surveillance|
+|ADF|Automatic Direction-Finding Equipment|
+|ADS|Automatic Dependent Surveillance|
 |AFS|Aeronautical Fixed Service|
 |AFTN|Aeronautical Fixed Telecommunication Network|
 |ADR|Architectural Design Review|
@@ -128,6 +128,7 @@
 |HWIR|Horizontal Worst Integrity Ratio|
 ||I|
 |ICAO|International Civil Aviation Organisation|
+|IFF|Identification Friend or Foe|
 |IGP|Ionospheric Grid Point|
 |IGS|International GNSS Service|
 |IKD|In Kind Delivery|
@@ -186,6 +187,7 @@
 |PRC|Pseudo Range Correction|
 |PRN|Pseudo Random Noise|
 ||R|
+|RADAR|Radio Detection and Ranging|
 |RAIM|Receiver Autonomous Integrity Monitoring|
 |RAMS|Reliability Availability, Maintainability and Safety|
 |RD|Reference Document|
