@@ -223,10 +223,12 @@
 |RTP|Request to Participate|
 ||S|
 |S/A|Selective Availability|
+|SAL|Security Aspects Letter|
 |SAPPHIRE|Satellite and Aircraft Data Base for System Integrity Research|
 |SAR|Search and Rescue|
 |SARP|Standards And Recommended Practices|
 |SBAS|Satellite Based Augmentation System|
+|SCG|Security Classification Guide|
 |SCAR|Software Component Acceptance Review|
 |SCC|System Control Centre|
 |SIS|Signal In Space|
@@ -234,6 +236,8 @@
 |SITA|Sociedad Internacional de Telecomunicaciones Aeronáuticas|
 |SNR|Signal to Noise Ratio|
 |SoL|Safety Of Life|
+|SoW|Statement of Work|
+|SP|Service Provider|
 |SPP|Standard Point Positioning|
 |SPS|Standard Positioning System|
 |SRD|System Requirements Document or Software Requirement Document|
@@ -242,6 +246,7 @@
 ||T|
 |TACAN|Tactical Air Navigational System|
 |TDOP|Time Dilution of Precision|
+|TN|Technical Note|
 |TRB|Test Review Board|
 |TT&C|Telemetry, Tracking and Control|
 |TTFF|Time To First Fix|
@@ -268,4 +273,5 @@
 |WAN|Wide Area Network|
 |WGA|World Geodesic System|
 |WIR|Worst Integrity Ratio|
+|WP|Work Package|
 |WRS|WAAS Reference Stations|
