@@ -12,6 +12,7 @@
 |AGL|Above Ground Level|
 |AIV|Assembly, Integration and Verification|
 |AIVP|Assembly, Integration and Verification Plan|
+|AIVQ|Assembly, Integration, Verification & Qualification|
 |ALS|Approach lighting system|
 |AM|Amplitude Modulation|
 |AMCS|AlternateMaster Control Station|
@@ -22,6 +23,7 @@
 |AOC|Advance Operational Capability|
 |AOR-E|Atlantic Ocean Region - East|
 |AOR-W|Atlantic Ocean Region - West|
+|AR|Acceptance Review|
 |APAPI|Abbreviated precision approach path indicator|
 |ARNS|Aeronautical Radio Navigation Service|
 |ARTES|Advanced Research in Telecommunication Systems|
@@ -58,6 +60,7 @@
 ||D|
 |DCN|Document Change Notice|
 |DDR|Detailed Design Review|
+|DFMC|Dual Frequency Multi-Constellation|
 |DFS|Deutsche Flugsicherung GmbH (DE)|
 |DGAC|Dirección General de Aviación Civil (ES)|
 |DGAC|Direction Generale Aviation Civile (FR)|
@@ -76,6 +79,7 @@
 |EATMP|European Air Traffic Management Program|
 |ECAC|European Civil Aviation Conference|
 |EETES|EGNOS End To End Simulator|
+|EGEP|European GNSS Evolution Programme|
 |EGNOS|European Geostationary Navigation Overlay Service|
 |EMS|EGNOS Message Server|
 |ENAV|Ente Nationale di Assistenze al Volo (IT) |
@@ -86,6 +90,7 @@
 |ESTB|EGNOS System Test Bed|
 |ESVS|EGNOS Service Volume Simulator|
 |EUROCAE|European Organisation for Civil Aviation Equipment Manufacturers|
+|EV3|EGNOS v3|
 |EWAN|EGNOS Wide Area Network|
 ||F|
 |FAA|Federal Aviation Administration|
@@ -116,11 +121,13 @@
 |GNSS|Global Navigation Satellite System|
 |GPRS|General Packet Radio Services|
 |GPS|Global Positioning System|
+|GSA|European GNSS Agency|
 |GSM|Global System for Mobile communications|
 |GSS|Galileo Sensor Stations|
 ||H|
 |HDOP|Horizontal Dilution of Precision|
 |HE|Horizontal Error|
+|HE|Hosting Entity|
 |HPE|Horizontal Positioning Error|
 |HMI|Hazardous Misleading Information|
 |HPL|Horizontal Protection Level|
@@ -128,10 +135,12 @@
 |HWIR|Horizontal Worst Integrity Ratio|
 ||I|
 |ICAO|International Civil Aviation Organisation|
+|ICD|Interface Control Document|
 |IFF|Identification Friend or Foe|
 |IGP|Ionospheric Grid Point|
 |IGS|International GNSS Service|
 |IKD|In Kind Delivery|
+|IKP|Intermediate Key Point|
 |ILS|Instrument Landing System or Integrated Logistics Support|
 |IMO|International Maritime Organization|
 |INS|Inertial Navigation System|
@@ -146,14 +155,20 @@
 |IOV|In-Orbit Validation|
 |IPP|Ionospheric Pierce Point|
 |ISO|International Organization for Standardization|
+|IRD|Infrastructure Requirements Document|
 |IRD|Interface Requirements Document|
+|ITT|Invitation To Tender|
 |ITU|International Telecommunications Union|
+|IWG|Interoperability Working Group|
 ||J|
 |JTC|Joint Tripartite Committee|
+||K|
+|KOM|Kick Off Meeting|
 ||L|
 |LS|Laser Station|
 |LTC|Long Term Corrections|
 ||M|
+|MCC|Master Control Cente|
 |MCS|Master Control Station|
 |MEO|Medium Earth Orbit|
 |MOPS|Minimum Operational Performance Specification|
@@ -173,6 +188,8 @@
 |NPA|Non Precision Approach|
 ||O|
 |OBS|Omni-Bearing Selector (VOR)|
+|OKP|Operational Key Point|
+|OP|Operator|
 |ORR|Operational Readiness Review|
 ||P|
 |PA|Precision Approach|
@@ -181,16 +198,20 @@
 |PDR|Preliminary Design Review|
 |PEGASUS|Prototype EGNOS and GBAS Analysis System Using SAPPHIRE|
 |PIDS|Prime Item Development Specification|
+|PIN|Prior Information Notice|
 |PL|Protection Level|
 |PPP|Precise Point Positioning|
 |PPS|Precise Positioning System|
 |PRC|Pseudo Range Correction|
 |PRN|Pseudo Random Noise|
+||Q|
+|QR|Qualification Review|
 ||R|
 |RADAR|Radio Detection and Ranging|
 |RAIM|Receiver Autonomous Integrity Monitoring|
 |RAMS|Reliability Availability, Maintainability and Safety|
 |RD|Reference Document|
+|RFP|Request For Proposa|
 |RINEX|Receiver Independent EXchange format|
 |RINEX-B|Receiver Independent EXchange format Binary|
 |RIMS|Ranging and Integrity Monitoring Station|
@@ -199,6 +220,7 @@
 |RSS|Root Sum Square|
 |RTCA|Radio Technical Commission for Aeronauticsa|
 |RTMC|Radio Technical Commission for Maritime|
+|RTP|Request to Participate|
 ||S|
 |S/A|Selective Availability|
 |SAPPHIRE|Satellite and Aircraft Data Base for System Integrity Research|
@@ -211,6 +233,7 @@
 |SISNET|Signal-In-Space through the Internet|
 |SITA|Sociedad Internacional de Telecomunicaciones Aeronáuticas|
 |SNR|Signal to Noise Ratio|
+|SoL|Safety Of Life|
 |SPP|Standard Point Positioning|
 |SPS|Standard Positioning System|
 |SRD|System Requirements Document or Software Requirement Document|
