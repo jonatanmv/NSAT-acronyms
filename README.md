@@ -125,6 +125,7 @@
 |GSM|Global System for Mobile communications|
 |GSS|Galileo Sensor Stations|
 ||H|
+|HAS|High Accuracy Service (Galileo)|
 |HDOP|Horizontal Dilution of Precision|
 |HE|Horizontal Error|
 |HE|Hosting Entity|
@@ -191,6 +192,7 @@
 |OKP|Operational Key Point|
 |OP|Operator|
 |ORR|Operational Readiness Review|
+|OS|Open Service (Egnos, Galileo...)|
 ||P|
 |PA|Precision Approach|
 |PACF|Performance Assessment and Check-out Platform|
@@ -204,6 +206,7 @@
 |PPS|Precise Positioning System|
 |PRC|Pseudo Range Correction|
 |PRN|Pseudo Random Noise|
+|PRS|Public Regulated Service (Galileo)|
 ||Q|
 |QR|Qualification Review|
 ||R|
