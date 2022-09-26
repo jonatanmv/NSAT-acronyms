@@ -51,6 +51,7 @@
 |CDMA|Code Division Multiple Access|
 |CDR|Critical Design Review|
 |CFI|Customer Furnished Item|
+|C/N0|Carrier to Noise-density-ratio|
 |CN|Change Notice|
 |CPF|Central Processing Facility|
 |CPU|Central Processing Unit|
@@ -241,15 +242,18 @@
 |SoL|Safety Of Life|
 |SoW|Statement of Work|
 |SP|Service Provider|
+|SPE|Speed Precision Error|
 |SPP|Standard Point Positioning|
 |SPS|Standard Positioning System|
 |SRD|System Requirements Document or Software Requirement Document|
 |STNA|Service Technique Navigation Aerienne (FR)|
+|SV|Space Vehicle|
 |SVN|Space Vehicle Number|
 ||T|
 |TACAN|Tactical Air Navigational System|
 |TDOP|Time Dilution of Precision|
 |TN|Technical Note|
+|TPE|Timing Precision Error|
 |TRB|Test Review Board|
 |TT&C|Telemetry, Tracking and Control|
 |TTFF|Time To First Fix|
@@ -267,7 +271,7 @@
 |VHF|Very High Frecuency|
 |VLF|Very Low Frecuency|
 |VOR|Very High Frequency Omnidirectional Range|
-|VPE|Vertical Positioning Error|
+|VPE|Vertical Precision Error|
 |VPL|Vertical Protection Level|
 |VSAT|Very Small Aperture Terminal|
 |VWIR|Vertical Worst Integrity Ratio|
