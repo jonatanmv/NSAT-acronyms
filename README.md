@@ -58,6 +58,7 @@
 |CR|Change Request|
 |CRC|Cyclic Redundancy Check|
 |CSAR|Configuration Status Accounting Report|
+|CW|Continuous Wave|
 ||D|
 |DCN|Document Change Notice|
 |DDR|Detailed Design Review|
