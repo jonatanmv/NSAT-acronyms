@@ -20,6 +20,7 @@
 |AMS|Aeronautical Mobile Service|
 |ANSI|American National Standards Institute|
 |ANSP|Air Navigation Services Provider|
+|AOA|Angle Of Arrival|
 |AOC|Advance Operational Capability|
 |AOR-E|Atlantic Ocean Region - East|
 |AOR-W|Atlantic Ocean Region - West|
@@ -252,7 +253,8 @@
 |SVN|Space Vehicle Number|
 ||T|
 |TACAN|Tactical Air Navigational System|
-|TDOP|Time Dilution of Precision|
+|TDOA|Time Difference Of Arrival|
+|TDOP|Time Dilution Of Precision|
 |TN|Technical Note|
 |TPE|Timing Precision Error|
 |TRB|Test Review Board|
