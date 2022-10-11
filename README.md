@@ -196,6 +196,7 @@
 |OP|Operator|
 |ORR|Operational Readiness Review|
 |OS|Open Service (Egnos, Galileo...)|
+|OWA|Operational Work-arownd|
 ||P|
 |PA|Precision Approach|
 |PACF|Performance Assessment and Check-out Platform|
