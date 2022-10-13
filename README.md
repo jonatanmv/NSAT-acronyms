@@ -41,7 +41,9 @@
 |BIT|Built-in Test|
 |BPSK|Bniary Phase Shift Keying|
 ||C|
+|C3S|Copernicus Climate Change Service|
 |CAA|Civil Aviation Authority|
+|CAMS|Copernicus Atmosphere Monitoring Service|
 |CASC|China Aerospace Science and Technology Corporation|
 |CAT-1|Category 1 Precision Approach Phase of Flight|
 |CC-M|Central Synchroniser|
@@ -51,14 +53,18 @@
 |CDI|Course Deviation Indicator (VOR)|
 |CDMA|Code Division Multiple Access|
 |CDR|Critical Design Review|
+|CEMS|Copernicus Emergency Management Service|
 |CFI|Customer Furnished Item|
 |C/N0|Carrier to Noise-density-ratio|
+|CLMS|Copernicus Land Monitoring Service|
+|CMEMS|Copernicus Marina Environment Monitoring Service|
 |CN|Change Notice|
 |CPF|Central Processing Facility|
 |CPU|Central Processing Unit|
 |CR|Change Request|
 |CRC|Cyclic Redundancy Check|
 |CSAR|Configuration Status Accounting Report|
+|CSS|Copernicus Security Service|
 |CW|Continuous Wave|
 ||D|
 |DCN|Document Change Notice|
