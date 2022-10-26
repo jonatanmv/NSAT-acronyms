@@ -245,6 +245,7 @@
 |SCG|Security Classification Guide|
 |SCAR|Software Component Acceptance Review|
 |SCC|System Control Centre|
+|SDD|Service Definition Document|
 |SIS|Signal In Space|
 |SISNET|Signal-In-Space through the Internet|
 |SITA|Sociedad Internacional de Telecomunicaciones Aeronáuticas|
