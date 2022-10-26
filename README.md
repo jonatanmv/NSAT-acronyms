@@ -53,6 +53,7 @@
 |CDI|Course Deviation Indicator (VOR)|
 |CDMA|Code Division Multiple Access|
 |CDR|Critical Design Review|
+|CED|Clock Ephemeris Data|
 |CEMS|Copernicus Emergency Management Service|
 |CFI|Customer Furnished Item|
 |C/N0|Carrier to Noise-density-ratio|
@@ -202,7 +203,7 @@
 |OKP|Operational Key Point|
 |OP|Operator|
 |ORR|Operational Readiness Review|
-|OS|Open Service (Egnos, Galileo...)|
+|OS|Open Service|
 |OWA|Operational Work-arownd|
 ||P|
 |PA|Precision Approach|
@@ -213,6 +214,7 @@
 |PIDS|Prime Item Development Specification|
 |PIN|Prior Information Notice|
 |PL|Protection Level|
+|PNT|Position Navigation Timming|
 |PPP|Precise Point Positioning|
 |PPS|Precise Positioning System|
 |PRC|Pseudo Range Correction|
