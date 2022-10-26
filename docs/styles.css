@@ -1,0 +1,35 @@
+:root {
+    --bg: white;
+    --fg: rgb(1, 33, 1);
+    --shadow: rgb(236, 234, 234);
+}
+
+body {
+    background-color: var(--bg);    
+    color: var(--fg);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border: 1px solid var(--fg-color);
+    border-collapse: collapse;
+}
+
+td {
+    font-size: large;
+    font-variant: small-caps;
+    padding: 6px 13px;
+}
+
+th {
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 6px 13px;
+}
+
+tr:nth-child(even){background-color: var(--shadow)}
+
+.content {
+    max-width: 90%;
+    margin: auto;
+}
