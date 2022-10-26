@@ -178,6 +178,7 @@
 |LS|Laser Station|
 |LTC|Long Term Corrections|
 ||M|
+|MA|Multiple Access|
 |MCC|Master Control Cente|
 |MCS|Master Control Station|
 |MEO|Medium Earth Orbit|
