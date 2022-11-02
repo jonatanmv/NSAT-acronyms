@@ -4,6 +4,13 @@
     --shadow: rgb(236, 234, 234);
 }
 
+a {
+    text-decoration: none;
+    color: var(--fg);
+}
+
+a:hover { text-decoration: underline;}
+
 body {
     background-color: var(--bg);    
     color: var(--fg);
@@ -11,7 +18,9 @@ body {
 }
 
 img {
-    display: block;
+    display: inline;
+    scale: 65%;
+    vertical-align: middle;
 }
 
 td, th {
