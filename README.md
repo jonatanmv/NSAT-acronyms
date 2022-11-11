@@ -92,6 +92,7 @@
 |EATMN|European Air Traffic Management Network|
 |EATMP|European Air Traffic Management Program|
 |ECAC|European Civil Aviation Conference|
+|EDAS|EGNOS Data Access Service|
 |EETES|EGNOS End To End Simulator|
 |EGEP|European GNSS Evolution Programme|
 |EGNOS|European Geostationary Navigation Overlay Service|
