@@ -25,6 +25,7 @@
 |ANSP|Air Navigation Services Provider|
 |AOA|Angle Of Arrival|
 |AOC|Advance Operational Capability|
+|AOR|Atlantic Ocean Region|
 |AOR-E|Atlantic Ocean Region - East|
 |AOR-W|Atlantic Ocean Region - West|
 |AR|Acceptance Review|
