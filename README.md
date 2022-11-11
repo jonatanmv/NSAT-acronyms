@@ -41,9 +41,11 @@
 |ATS|Air Traffic Service|
 |ATSU|Air Traffic Status Unit|
 |AWGN|Additive White Gaussian Noise|
+
 ||B|
 |BIT|Built-in Test|
 |BPSK|Bniary Phase Shift Keying|
+
 ||C|
 |C3S|Copernicus Climate Change Service|
 |CAA|Civil Aviation Authority|
@@ -71,6 +73,7 @@
 |CSAR|Configuration Status Accounting Report|
 |CSS|Copernicus Security Service|
 |CW|Continuous Wave|
+
 ||D|
 |DCN|Document Change Notice|
 |DDR|Detailed Design Review|
@@ -86,6 +89,7 @@
 |DoD|US Department of Defense|
 |DOP|Dilution of Precision|
 |DoY|Day of Year|
+
 ||E|
 |EASA|European Aviation Safety Authority|
 |EATM|European Air Traffic Management|
@@ -107,6 +111,7 @@
 |EUROCAE|European Organisation for Civil Aviation Equipment Manufacturers|
 |EV3|EGNOS v3|
 |EWAN|EGNOS Wide Area Network|
+
 ||F|
 |FAA|Federal Aviation Administration|
 |FANS|Future Air Navigation Systems|
@@ -121,6 +126,7 @@
 |FMS|Flight Management System|
 |FOC|Fully Operational Capability|
 |FQR|Factory Qualification Review|
+
 ||G|
 |GA|Ground Antennas|
 |GBAS|Ground Based Augmentation System|
@@ -128,6 +134,7 @@
 |GCS|Ground Control Segment|
 |GDOP|Geometric Dilution of Precision|
 |GEO|Geostationary Earth Orbit Satellite|
+|GIC|GNSS Integrity Channel|
 |GIOVE|Galileo In-Orbit Validation|
 |GIVE|Grid Ionospheric Vertical Error|
 |GLONASS|Global Navigation Satellite System|
@@ -139,6 +146,7 @@
 |GSA|European GNSS Agency|
 |GSM|Global System for Mobile communications|
 |GSS|Galileo Sensor Stations|
+
 ||H|
 |HAS|High Accuracy Service (Galileo)|
 |HDOP|Horizontal Dilution of Precision|
@@ -149,6 +157,7 @@
 |HPL|Horizontal Protection Level|
 |HSI|Horizontal Situation Indicator (VOR)|
 |HWIR|Horizontal Worst Integrity Ratio|
+
 ||I|
 |ICAO|International Civil Aviation Organisation|
 |ICD|Interface Control Document|
@@ -176,13 +185,17 @@
 |ITT|Invitation To Tender|
 |ITU|International Telecommunications Union|
 |IWG|Interoperability Working Group|
+
 ||J|
 |JTC|Joint Tripartite Committee|
+
 ||K|
 |KOM|Kick Off Meeting|
+
 ||L|
 |LS|Laser Station|
 |LTC|Long Term Corrections|
+
 ||M|
 |MA|Multiple Access|
 |MCC|Master Control Cente|
@@ -196,6 +209,7 @@
 |MTBCF|Mean Time Between Critical Failures|
 |MTBF|Mean Time Between Failures|
 |MTTR|Mean Time To Repair|
+
 ||N|
 |NATS|National Air Traffic Services (UK)|
 |NDB|Non Directional Beacon|
@@ -203,6 +217,7 @@
 |NLES|Navigation Land Earth Station|
 |NOTAM|Notice To Air Men|
 |NPA|Non Precision Approach|
+
 ||O|
 |OBS|Omni-Bearing Selector (VOR)|
 |OKP|Operational Key Point|
@@ -210,6 +225,7 @@
 |ORR|Operational Readiness Review|
 |OS|Open Service|
 |OWA|Operational Work-arownd|
+
 ||P|
 |PA|Precision Approach|
 |PACF|Performance Assessment and Check-out Platform|
@@ -225,8 +241,10 @@
 |PRC|Pseudo Range Correction|
 |PRN|Pseudo Random Noise|
 |PRS|Public Regulated Service (Galileo)|
+
 ||Q|
 |QR|Qualification Review|
+
 ||R|
 |RADAR|Radio Detection and Ranging|
 |RAIM|Receiver Autonomous Integrity Monitoring|
@@ -242,6 +260,7 @@
 |RTCA|Radio Technical Commission for Aeronauticsa|
 |RTMC|Radio Technical Commission for Maritime|
 |RTP|Request to Participate|
+
 ||S|
 |S/A|Selective Availability|
 |SAL|Security Aspects Letter|
@@ -267,6 +286,7 @@
 |STNA|Service Technique Navigation Aerienne (FR)|
 |SV|Space Vehicle|
 |SVN|Space Vehicle Number|
+
 ||T|
 |TACAN|Tactical Air Navigational System|
 |TDOA|Time Difference Of Arrival|
@@ -277,6 +297,7 @@
 |TT&C|Telemetry, Tracking and Control|
 |TTFF|Time To First Fix|
 |TOW|Time of Week|
+
 ||U|
 |UHF|Ultra High Frecuency|
 |UDRE|User Differential Range Error|
@@ -284,6 +305,7 @@
 |URA|User Range Accuracy|
 |USAF|United States Air Force|
 |UTC|Coordinated Universal Time|
+
 ||V|
 |VDOP|Vertical Dilution of Precision|
 |VE|Vertical Error|
@@ -294,6 +316,7 @@
 |VPL|Vertical Protection Level|
 |VSAT|Very Small Aperture Terminal|
 |VWIR|Vertical Worst Integrity Ratio|
+
 ||W|
 |WAAS|Wide Area Augmentation System|
 |WAN|Wide Area Network|
