@@ -210,7 +210,7 @@
 |OP|Operator|
 |ORR|Operational Readiness Review|
 |OS|Open Service|
-|OWA|Operational Work-around|
+|OWA|Operational Workaround|
 ||P|
 |PA|Precision Approach|
 |PACF|Performance Assessment and Check-out Platform|
