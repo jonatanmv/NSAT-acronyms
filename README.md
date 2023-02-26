@@ -104,6 +104,7 @@
 |ESSF|EGNOS System Simulation Facility|
 |ESTB|EGNOS System Test Bed|
 |ESVS|EGNOS Service Volume Simulator|
+|EUMETSAT|European Organisation for the Exploitation of Meteorological Satellites|
 |EUROCAE|European Organisation for Civil Aviation Equipment Manufacturers|
 |EV3|EGNOS v3|
 |EWAN|EGNOS Wide Area Network|
