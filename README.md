@@ -247,6 +247,7 @@
 |RTCA|Radio Technical Commission for Aeronauticsa|
 |RTMC|Radio Technical Commission for Maritime|
 |RTP|Request to Participate|
+|RVR|Runaway Visual Range|
 ||S|
 |S/A|Selective Availability|
 |SAL|Security Aspects Letter|
