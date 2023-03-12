@@ -83,6 +83,7 @@
 |DGPS|Differential GPS|
 |DJF|Design Justification File|
 |DME|Distance Measuring Equipment|
+|DVOR|Doppler VHF Omnidirectional Range|
 |DVP|Development Verification Platform|
 |DoD|US Department of Defense|
 |DOP|Dilution of Precision|
