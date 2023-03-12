@@ -187,7 +187,7 @@
 |LS|Laser Station|
 |LTC|Long Term Corrections|
 |LVP|Low Visibility Procedures|
-|LVTO|Low visibility take-off|
+|LVTO|Low Visibility Take-Off|
 ||M|
 |MA|Multiple Access|
 |MCC|Master Control Cente|
