@@ -261,6 +261,7 @@
 |SCAR|Software Component Acceptance Review|
 |SCC|System Control Centre|
 |SDD|Service Definition Document|
+|SIGMET|Significant Meteorological Information|
 |SIS|Signal In Space|
 |SISNeT|Signal-In-Space through the Internet|
 |SITA|Sociedad Internacional de Telecomunicaciones Aeronáuticas|
