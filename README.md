@@ -125,6 +125,7 @@
 |FQR|Factory Qualification Review|
 ||G|
 |GA|Ground Antennas|
+|GAMET|General Aviation METeorological forecast|
 |GBAS|Ground Based Augmentation System|
 |GCC|Ground Control Centre|
 |GCS|Ground Control Segment|
