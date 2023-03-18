@@ -31,6 +31,7 @@
 |AOR-W|Atlantic Ocean Region - West|
 |AR|Acceptance Review|
 |APAPI|Abbreviated precision approach path indicator|
+|APV|Aproach with Vertical Guidance|
 |ARNS|Aeronautical Radio Navigation Service|
 |ARTES|Advanced Research in Telecommunication Systems|
 |ARTCC|Air Route Traffic Control Center|
