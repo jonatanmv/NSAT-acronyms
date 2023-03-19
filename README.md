@@ -281,6 +281,7 @@
 |SVN|Space Vehicle Number|
 ||T|
 |TACAN|Tactical Air Navigational System|
+|TAS|True Air Speed|
 |TCP UAS|Transport Control Protocol User Application Software|
 |TDOA|Time Difference Of Arrival|
 |TDOP|Time Dilution Of Precision|
