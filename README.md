@@ -157,6 +157,7 @@
 |HSI|Horizontal Situation Indicator (VOR)|
 |HWIR|Horizontal Worst Integrity Ratio|
 ||I|
+|IAS|Indicated Air Speed|
 |ICAO|International Civil Aviation Organisation|
 |ICD|Interface Control Document|
 |IFF|Identification Friend or Foe|
