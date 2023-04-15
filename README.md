@@ -198,6 +198,7 @@
 |MCC|Master Control Cente|
 |MCS|Master Control Station|
 |MEO|Medium Earth Orbit|
+|MLS|Microwave Landing system|
 |MOPS|Minimum Operational Performance Specification|
 |MRD|Mission Requirements Document|
 |MS|Monitoring Stations|
