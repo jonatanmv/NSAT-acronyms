@@ -249,7 +249,8 @@
 |RINEX|Receiver Independent EXchange format|
 |RINEX-B|Receiver Independent EXchange format Binary|
 |RIMS|Ranging and Integrity Monitoring Station|
-|RNAV|Area NAvigation|
+|RNAV|Area Navigation|
+|RNP|Required Navigation Performance|
 |RNSS|Radio Navigation Satellite Service|
 |RRC|Range Rate Correction|
 |RSS|Root Sum Square|
