@@ -226,6 +226,7 @@
 ||P|
 |PA|Precision Approach|
 |PACF|Performance Assessment and Check-out Platform|
+|PBN|Performance Based Navigation|
 |PDOP|Position Dilution of Precision|
 |PDR|Preliminary Design Review|
 |PEGASUS|Prototype EGNOS and GBAS Analysis System Using SAPPHIRE|
