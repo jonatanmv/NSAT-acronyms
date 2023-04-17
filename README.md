@@ -74,6 +74,7 @@
 |CSS|Copernicus Security Service|
 |CW|Continuous Wave|
 ||D|
+|DAT|Digital Audio Tape|
 |DCN|Document Change Notice|
 |DDR|Detailed Design Review|
 |DFMC|Dual Frequency Multi-Constellation|
