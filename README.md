@@ -14,6 +14,7 @@
 |ADR|Architectural Design Review|
 |AGL|Above Ground Level|
 |AIRMET|AIRman's METeorological Information|
+|AIT|Advanced Intelligent Tape|
 |AIV|Assembly, Integration and Verification|
 |AIVP|Assembly, Integration and Verification Plan|
 |AIVQ|Assembly, Integration, Verification & Qualification|
