@@ -47,6 +47,7 @@
 ||B|
 |BIT|Built-in Test|
 |BPSK|Bniary Phase Shift Keying|
+|BVLOS|Beyond Visual Line Of Sight|
 ||C|
 |C3S|Copernicus Climate Change Service|
 |CAA|Civil Aviation Authority|
@@ -309,6 +310,7 @@
 |VE|Vertical Error|
 |VHF|Very High Frecuency|
 |VLF|Very Low Frecuency|
+|VLOS|Visual Line Of Sight|
 |VOR|Very High Frequency Omnidirectional Range|
 |VPE|Vertical Precision Error|
 |VPL|Vertical Protection Level|
