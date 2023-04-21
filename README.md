@@ -198,7 +198,7 @@
 |LVTO|Low Visibility Take-Off|
 ||M|
 |MA|Multiple Access|
-|MCC|Master Control Cente|
+|MCC|Master Control Centre|
 |MCS|Master Control Station|
 |MEO|Medium Earth Orbit|
 |MLS|Microwave Landing system|
