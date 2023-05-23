@@ -1,6 +1,6 @@
 # GNSS related Acronyms
 
-<a href="https://jonatanmv.github.io/gnss-acronyms/">https://jonatanmv.github.io/gnss-acronyms/</a>
+Online version: <a href="https://jonatanmv.github.io/gnss-acronyms/">https://jonatanmv.github.io/gnss-acronyms/</a>
 
 |Acronym|Explanation|
 |-------|-----------|
