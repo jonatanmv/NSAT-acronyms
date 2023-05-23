@@ -209,6 +209,7 @@
 |MTB|Mediterranean Test Bed|
 |MTBCF|Mean Time Between Critical Failures|
 |MTBF|Mean Time Between Failures|
+|MTOM|Maximun Take-Off Mass|
 |MTTR|Mean Time To Repair|
 ||N|
 |NATS|National Air Traffic Services (UK)|
