@@ -38,6 +38,7 @@ Online version: <a href="https://jonatanmv.github.io/gnss-acronyms/">https://jon
 |ARTCC|Air Route Traffic Control Center|
 |ASCII|American Standard Code for Information Interchange|
 |ASIC|Application Specific Integrated Circuit|
+|ASM|Airspace Management|
 |ATC|Air Traffic Control|
 |ATM|Air Traffic Management|
 |ATM|Asynchronous Transfer Mode|
@@ -128,6 +129,7 @@ Online version: <a href="https://jonatanmv.github.io/gnss-acronyms/">https://jon
 |FMECA|Failure Mode Effects & Criticality Analysis|
 |FMS|Flight Management System|
 |FOC|Fully Operational Capability|
+|FPD|Flight Procedure Design|
 |FQR|Factory Qualification Review|
 ||G|
 |GA|Ground Antennas|
