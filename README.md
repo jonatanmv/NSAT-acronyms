@@ -115,6 +115,7 @@ Online version: <a href="https://jonatanmv.github.io/gnss-acronyms/">https://jon
 |EUMETSAT|European Organisation for the Exploitation of Meteorological Satellites|
 |EUROCAE|European Organisation for Civil Aviation Equipment Manufacturers|
 |EV3|EGNOS v3|
+|EWA|EGNOS Working Agreement|
 |EWAN|EGNOS Wide Area Network|
 ||F|
 |FAA|Federal Aviation Administration|
