@@ -1,5 +1,6 @@
 # GNSS related Acronyms
-Version: 20231220
+Updated: 20231220
+
 Online version: <a href="https://jonatanmv.github.io/gnss-acronyms/">https://jonatanmv.github.io/gnss-acronyms/</a>
 
 |Acronym|Explanation|
