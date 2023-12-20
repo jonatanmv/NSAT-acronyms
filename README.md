@@ -328,4 +328,5 @@ Online version: <a href="https://jonatanmv.github.io/gnss-acronyms/">https://jon
 |WIR|Worst Integrity Ratio|
 |WP|Work Package|
 |WRS|WAAS Reference Stations|
+
 Version: 20231220
