@@ -167,6 +167,7 @@ Online version: <a href="https://jonatanmv.github.io/gnss-acronyms/">https://jon
 |IAS|Indicated Air Speed|
 |ICAO|International Civil Aviation Organisation|
 |ICD|Interface Control Document|
+|IERS|International Earth Rotation and Reference Systems Service|
 |IFF|Identification Friend or Foe|
 |IGP|Ionospheric Grid Point|
 |IGS|International GNSS Service|
