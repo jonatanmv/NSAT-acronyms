@@ -110,6 +110,7 @@ Online version: <a href="https://jonatanmv.github.io/gnss-acronyms/">https://jon
 |ENMA|EGNOS Network Management Application|
 |EOIG|EGNOS Operators and Infrastructure  Group|
 |ESA|European Space Agency|
+|ESSP|European Satellite Services Provider|
 |ESSF|EGNOS System Simulation Facility|
 |ESTB|EGNOS System Test Bed|
 |ESVS|EGNOS Service Volume Simulator|
