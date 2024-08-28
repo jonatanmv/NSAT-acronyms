@@ -43,6 +43,7 @@ Online version: <a href="https://jonatanmv.github.io/gnss-acronyms/">https://jon
 |ATC|Air Traffic Control|
 |ATM|Air Traffic Management|
 |ATM|Asynchronous Transfer Mode|
+|ATO|Approved Training Organisation|
 |ATS|Air Traffic Service|
 |ATSU|Air Traffic Status Unit|
 |AWGN|Additive White Gaussian Noise|
