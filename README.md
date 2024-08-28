@@ -263,6 +263,7 @@ Online version: <a href="https://jonatanmv.github.io/gnss-acronyms/">https://jon
 |RNAV|Area Navigation|
 |RNP|Required Navigation Performance|
 |RNSS|Radio Navigation Satellite Service|
+|RPAS|Remotely Piloted Aircraft Systems|
 |RRC|Range Rate Correction|
 |RSS|Root Sum Square|
 |RTCA|Radio Technical Commission for Aeronauticsa|
