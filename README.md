@@ -163,6 +163,7 @@ Online version: <a href="https://jonatanmv.github.io/gnss-acronyms/">https://jon
 |HPE|Horizontal Positioning Error|
 |HMI|Hazardous Misleading Information|
 |HPL|Horizontal Protection Level|
+|HRM|Holistic Risk Model|
 |HSI|Horizontal Situation Indicator (VOR)|
 |HWIR|Horizontal Worst Integrity Ratio|
 ||I|
